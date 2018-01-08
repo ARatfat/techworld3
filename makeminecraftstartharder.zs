@@ -7,7 +7,7 @@ print("Initializing 'makeminecraftstartharder.zs'...");
 recipes.remove(<forestry:gearcopper>);
 recipes.remove(<forestry:gearbronze>);
 recipes.remove(<forestry:geartin>);
-recipes.remove(<ThermalFoundation:material:140>);
+recipes.remove(<thermalfoundation:material:140>);
 recipes.remove(<ThermalFoundation:material:139>);
 recipes.remove(<ThermalFoundation:material:138>);
 recipes.remove(<ThermalFoundation:material:137>);
